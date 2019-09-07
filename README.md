@@ -8,6 +8,7 @@
 - このリポジトリをご自身のGithubアカウントにfolkして、<a href="https://github.com/es335ab/practice-front-end/blob/master/COURSE.md">COURSE.md</a>に沿ってご自身のリポジトリで勉強を進めてください。
 - このカリキュラムを終えればモダンなWebサイトのフロントエンド開発ができるようになります。（複雑なWebアプリケーションの開発は対象外
 
+ 中野
 ## カリキュラムをすすめるのに必要なもの
 
 - Mac
